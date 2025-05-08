@@ -1,3 +1,4 @@
+/** no space at the end of scanf may cause the \n go to the next scanf and terminate the last imput process */
 #include <stdio.h>
 
 int main(void){
