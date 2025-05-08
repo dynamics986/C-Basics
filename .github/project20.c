@@ -18,7 +18,7 @@ int main(){
         scanf("%d", ptr);
         ptr++;
         printf("%p",ptr);
-        printf("  %d\n",ptr);
+        printf("  %d\n",ptr); // Here we know address is only a number
     }
     
     printf("The numbers are: ");
