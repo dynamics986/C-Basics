@@ -9,7 +9,7 @@ int main(void){
     // int *** r = &q;
     // printf("x=%d *p=%d p=%p\n",a, *p, p);
     // printf("p=%p *q=%p q=%p\n",p, *q, q);
-    // printf("q=%p *q=%p r=%p\n",q, *r, r);
+    // printf("q=%p *r=%p r=%p\n",q, *r, r);
 
     /** p->q->x */
     int** p, x = 10;
