@@ -1,51 +1,44 @@
-# Introduction to GitHub
+# C Programming Journey
 
-_Get started using GitHub in less than an hour._
+This repository contains my exploration of C programming, organized into different branches based on complexity and purpose. All code is written in C, ranging from beginner snippets to advanced low-level implementations.
 
-## Welcome
+## Branches Overview
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” exercise guides you through everything you need to start contributing in less than an hour.
+### 1. `main` branch: Data Structures
+- Contains documented implementations of fundamental data structures
+- Focuses on practical applications with clean, commented code
+- Ideal for understanding how basic data structures work in C
 
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This exercise is a great introduction for your first day on GitHub.
-- **How long**: This exercise takes less than one hour to complete.
+### 2. `C-basics` branch: Foundational C
+- My early C learning experiments
+- Covers basic syntax, control flow, and simple programs
+- Perfect for absolute beginners starting with C
 
-In this exercise, you will:
+### 3. `Project` branch: Advanced C Concepts
+- Explores niche and powerful features of C
+- Demonstrates what makes C unique compared to higher-level languages
+- Contains advanced memory management, pointer magic, and system-level programming
 
-1. Create a branch
-2. Commit a file
-3. Open a pull request
-4. Merge your pull request
+## Recommended Learning Path
 
-### How to start this exercise
+1️⃣ **Start with `C-basics`**  
+   - Learn core C programming concepts  
+   - Understand basic syntax and program structure
 
-1. Right-click **Copy Exercise** and open the link in a new tab.
+2️⃣ **Proceed to `main` branch**  
+   - Study how data structures are implemented in C  
+   - See practical applications of C fundamentals
 
-   <a id="copy-exercise">
-      <img src="https://img.shields.io/badge/📠_Copy_Exercise-AAA" height="25pt"/>
-   </a>
+3️⃣ **Explore `Project` branch (Optional)**  
+   - For those curious about C's deeper capabilities  
+   - Requires solid understanding of C basics  
+   - Reveals why C remains essential for systems programming
 
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.chttps://github.com/dynamics986/C-Basics/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
+## How to Use This Repository
 
-3. After your new repository is created, wait about 20 seconds for the exercise to be prepared and buttons updated. You will continue working from your copy of the exercise.
-   - The **Copy Exercise** button will deactivate, changing to gray.
-   - The **Start Exercise** button will activate, changing to green.
-   - You will likely need to refresh the page.
+```bash
+git clone https://github.com/your-repo.git
+git checkout branch-name  # Switch between branches
 
-4. Click **Start Exercise**. Follow the step-by-step instructions and feedback will be provided as you progress.
-
-   <a id="start-exercise" href="https://github.com/dynamics986/C-Basics/issues/1">
-      <img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" height="25pt"/>
-   </a>
-
-> [!IMPORTANT]
-> The **Start Exercise** button will activate after copying the repository. You will probably need to refresh the page.
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+> *"C treats you like a grown-up. It gives you full control, and expects you to know what you're doing."*  
+> — **David S. Platt**
