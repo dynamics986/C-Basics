@@ -5,7 +5,9 @@ A curated collection of C code examples ranging from fun beginner projects to ad
 ## File Contents Overview
 
 1-3: Fun Coding
+
 4: Core Algorithms
+
 5: Senior-Level Topics
 
 ## How to Use
